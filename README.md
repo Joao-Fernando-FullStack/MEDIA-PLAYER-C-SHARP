@@ -3,6 +3,8 @@ MEDIA-PLAYER-C-SHARP
 Desenvolvi um Media Player usando simplesmente o C# em 2021, esse media player funciona como alguns existentes mas possui uma interface super boa,
 tenho sep up para instalar e rodar em qualquer compuatdor com sistema windos, caso queiras ter em posse contacte-me.
 
+Lembrando se quiser usar e alterar alguma coisa tens que ter o Visual Studio 
+
 Esse projecto se encontra na youtube nesse link: https://youtu.be/BlSND3eFMIE
 
 Imagens do Player:
